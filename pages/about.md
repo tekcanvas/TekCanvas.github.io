@@ -2,14 +2,25 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about-us.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Hey Guys!
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+It’s great to have you on TekCanvas. We are really glad that you’re taking an interest in who we are and what we do.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+TekCanvas is an initiative, which is run and supported by couple of crazy, tech minded software personnel.
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
+We are highly passionate about technology and keep exploring new things. As we gather knowledge through our journey, we keep sharing our learnings, ideas & thoughts through TekCanvas. 
+
+With this blog, we publish:
+
+ * Java topics
+ * Spring tutorials & samples
+ * React live examples
+ * JavaScript features
+ * Microservices
+
+If you’re interested in working with us or have any feedback about our writing, please drop a note at 
+techcanvas.in@gmail.com
 
