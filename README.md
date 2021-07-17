@@ -1,2 +1,1 @@
-# TekCanvas.github.io
-Blog for all tech related cool stuffs
+TekCanvas - We are coming soon
