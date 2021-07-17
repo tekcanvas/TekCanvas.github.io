@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "React Hello World"
+title:  "Understanding react components and coommunication"
 author: arkit
 categories: [ ReactJs ]
 image: assets/images/react-hello.jpeg
 ---
-Today I will explain how to create the hello world app in react js. 
+Today I will explain different react components and their communication. 
 
-This tutorial requires a basic knowledge on javascript. No prior knowledge on react js is required 
+This tutorial requires prior knowledge of JavaScript and ReactJs. 
 

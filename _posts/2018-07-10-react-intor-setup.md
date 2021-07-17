@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React Hello World"
+title:  "React Introduction & Setup"
 author: arkit
 categories: [ ReactJs ]
 image: assets/images/react-hello.jpeg
