@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About TekCanvas
 permalink: "/about/"
 image: assets/images/about-us.png
 ---
@@ -22,5 +22,5 @@ With this blog, we publish:
  * Microservices
 
 If you’re interested in working with us or have any feedback about our writing, please drop a note at 
-techcanvas.in@gmail.com
+***techcanvas.in@gmail.com***
 
