@@ -3,7 +3,7 @@ layout: post
 title:  "React Hello World"
 author: arkit
 categories: [ ReactJs ]
-image: assets/images/2.jpg
+image: assets/images/react-hello.jpeg
 ---
 Today I will explain how to create the hello world app in react js. 
 
