@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: about-us
 title: About TekCanvas
 permalink: "/about/"
-image: assets/images/about-us.png
+#image: assets/images/about-us.png
 ---
 
 Hey Guys!
