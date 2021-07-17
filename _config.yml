@@ -1,7 +1,7 @@
 title: "TekCanvas"
 email: tekcanvas.in@gmail.com
 timezone: UTC
-baseurl: "tekcanvas.com"
+#baseurl: ""
 permalink: "/:title/"
 #logo: 'assets/images/logo.png'
 #favicon: 'assets/images/favicon.ico'
