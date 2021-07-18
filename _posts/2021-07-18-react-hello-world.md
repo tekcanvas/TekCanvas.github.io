@@ -52,3 +52,4 @@ npm start
 
 Now you have started the app successfully, open the browser and type the URL [localhost:3000](http://localhost:3000/). Your browser will display something like this
 
+![React Default Startup Page](/assets/images/post/react/react-default-startup-page.png)
