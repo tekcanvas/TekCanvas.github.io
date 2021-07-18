@@ -30,3 +30,26 @@ This tutorial requires a basic knowledge on javascript. No prior knowledge on re
 **create-react-app** is a command to create React App with default configuration. This will enable us to start writing code immediately. 
 
 Check out the documentation [here](https://create-react-app.dev/) if you have any questions or want to dive in a touch deeper on how the tool works.
+
+Now install create-react-app globally with command on your computer's terminal using the below command:
+
+~~~
+npm install –g create-react-app
+~~~
+
+Now create a react application with default configuration with name of your choice, here we are naming our app **react-hello-world**
+
+~~~
+npx create-react-app react-hello-world
+~~~
+
+Start the app to check how the initial set looks like, to start navigate to the application directory and run start command.
+
+~~~
+cd react-hello-world
+npm start
+~~~
+
+Now you have started the app successfully, open the browser and type the URL [localhost:3000](http://localhost:3000/). Your browser will display something like this
+
+<img src="/assets/images/post/react/react-default-startup-page.png" alt="React Default Startup Page"/>
