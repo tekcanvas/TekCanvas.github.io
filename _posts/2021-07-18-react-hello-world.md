@@ -53,3 +53,25 @@ npm start
 Now you have started the app successfully, open the browser and type the URL [localhost:3000](http://localhost:3000/). Your browser will display something like this
 
 ![React Default Startup Page](/assets/images/post/react/react-default-startup-page.png)
+
+
+Now open the project in your favourite IDE, here we are using visual studio code.
+
+![React Hello World Initial Project Structure](/assets/images/post/react/react-hello-world-initial-setup.png)
+
+Now let’s create a simple Hello World! application with this project.
+
+Now navigate to src folder and open index.js and replace the content with the below code snippet.
+
+~~~JSX
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+  <div> <h1> Hello World ! </h1></div>,
+  document.getElementById('root')
+);
+~~~
+
+![React Hello World Browser View](/assets/images/post/react/react-hello-world-first-render.png)
+
