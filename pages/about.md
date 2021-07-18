@@ -23,5 +23,5 @@ With this blog, we publish:
  * Microservices
 
 If you’re interested in working with us or have any feedback about our writing, please drop a note at 
-***techcanvas.in@gmail.com***
+***tekcanvas.in@gmail.com***
 
