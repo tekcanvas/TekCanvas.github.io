@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding react components and coommunication"
+title:  "Understanding react components and communication"
 author: arkit
 categories: [ ReactJs ]
 image: assets/images/react-hello.jpeg
