@@ -75,3 +75,31 @@ ReactDOM.render(
 
 ![React Hello World Browser View](/assets/images/post/react/react-hello-world-first-render.png)
 
+### Functional Components
+
+Components lets you modularize your UI into independent & reusable elements.You can put your HTML elements you want to render in separate functions and later use these as independent components.
+
+A simple functional component may look like
+
+~~~JSX
+
+function ComponentName() {
+     return( 
+      <html-component> </html-component>
+   )
+}
+ReactDOM.render(<ComponentName/> , document.getElementById('root'))
+
+~~~
+
+Now let's write the Hello World! using functional components
+
+![React Hello World Functional Component](/assets/images/post/react/react-hello-world-functional-componet.png)
+
+Now lets link it to **index.js**
+ 
+![React Hello World Functional Component Index Page](/assets/images/post/react/react-hello-world-functional-componet-indexpage.png)
+
+Now lets view it in browser
+
+![React Hello World Browser View](/assets/images/post/react/react-hello-world-first-render.png)
