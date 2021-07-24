@@ -15,7 +15,7 @@ keywords:
   - first react programming
 
 ---
-Today I will explain how to create the hello world app in react js.
+This tutorial will give you a basic understanding of React by building a very  simple application so let's start creating your first React App for Hello World!.
 
 This tutorial requires a basic knowledge on javascript. No prior knowledge on react js is required.
 
@@ -103,3 +103,5 @@ Now lets link it to **index.js**
 Now lets view it in browser
 
 ![React Hello World Browser View](/assets/images/post/react/react-hello-world-first-render.png)
+
+Now you have created your very first React App lets learn some core concepts of React on the next tutorial.
